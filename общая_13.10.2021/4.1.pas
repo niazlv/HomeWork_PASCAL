@@ -13,5 +13,5 @@ begin
     if a[i]<0 then 
       n := n + 1; 
   end; 
-  writeln(n,' ', p);
+  writeln('count negative of digits: ',n,#10,'ammout of pozitive: ', p);
 end.
